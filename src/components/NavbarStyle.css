@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #d4d4d4; */
+}
+.nav-menu li{
+    display:inline-block ;
+    padding-right: 16px;
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+/* .nav-menu li a{
+    text-decoration: none;
+    color: rgb(25, 25, 25);
+} */
+.nav-menu li:hover a{
+    color: rgb(134, 142, 212);
+}
